@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+#zoomButtonsDiv{
+	margin-top:-30px;
+	text-align:center;
+}
+#userIdText{
+	position:absolute;
+}
+#loaderImg{
+	position:absolute;
+	z-index:100;
+}

@@ -1,0 +1,21 @@
+[19-Sep-2011 07:12:53] PHP Warning:  include_once(Model/class.login.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:12:53] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'Model/class.login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:12:53] PHP Fatal error:  Class 'Login' not found in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 4
+[19-Sep-2011 07:13:54] PHP Warning:  include_once(Model/class.login.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:13:54] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'Model/class.login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:13:54] PHP Fatal error:  Class 'Login' not found in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 4
+[19-Sep-2011 07:15:01] PHP Warning:  include_once(Model/class.login.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:15:01] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'Model/class.login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:15:01] PHP Fatal error:  Class 'Login' not found in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 4
+[19-Sep-2011 07:15:12] PHP Warning:  include_once(Model/class.login.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:15:12] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'Model/class.login.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 3
+[19-Sep-2011 07:15:12] PHP Fatal error:  Class 'Login' not found in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 4
+[19-Sep-2011 07:15:52] PHP Fatal error:  Call to undefined method Login::checkAdminLogin() in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 7
+[19-Sep-2011 07:16:08] PHP Fatal error:  Call to undefined method Login::checkAdminLogin() in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 7
+[19-Sep-2011 07:16:17] PHP Fatal error:  Call to undefined method Login::checkAdminLogin() in /home/sbhost/public_html/nayadaur.org/admin/chkLogin.php on line 7
+[19-Sep-2011 09:18:34] PHP Fatal error:  Call to a member function setQuery() on a non-object in /home/sbhost/public_html/nayadaur.org/admin/admin.php on line 7
+[19-Sep-2011 09:19:10] PHP Warning:  include_once(SqlWrapper/Class.DatabaseAlt.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/sbhost/public_html/nayadaur.org/admin/admin.php on line 3
+[19-Sep-2011 09:19:10] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'SqlWrapper/Class.DatabaseAlt.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sbhost/public_html/nayadaur.org/admin/admin.php on line 3
+[19-Sep-2011 09:19:10] PHP Fatal error:  Class 'DatabaseAlt' not found in /home/sbhost/public_html/nayadaur.org/admin/admin.php on line 8
+[19-Sep-2011 09:54:58] PHP Parse error:  syntax error, unexpected '<' in /home/sbhost/public_html/nayadaur.org/admin/admin.php on line 70
+[19-Sep-2011 09:57:02] PHP Parse error:  syntax error, unexpected '<' in /home/sbhost/public_html/nayadaur.org/admin/admin.php on line 72

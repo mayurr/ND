@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+#profileTable{
+	margin-left:390px;
+}
+#profileTable img{
+	height:100px;
+}
+.bigFont{
+	font-size: 20px;
+}
+#storyTable{
+	width:750px;
+	margin-top:50px;
+	margin-left:125px;
+}
+#separatorContainer{
+	width:450px;
+	height:1px;
+	margin-left:14px;
+}
+#separator{
+	width:450px;
+	height:1px;
+	background-color: #000;
+}

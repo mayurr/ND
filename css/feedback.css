@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+#feedbackP{
+	margin-top:100px;
+	margin-left:462px;
+	font-size:14px;
+	font-family:Trebuchet MS;
+}
+#feedbackButtons{
+	margin-left:445px;
+}
+#feedbackArea{
+	border:solid 1px #000;
+	width:600px;
+	height:150px;
+	color:#000;
+	margin-left:50px;
+}
+#feedbackForm{
+	margin-left:129px;
+	margin-top:50px;
+	margin-bottom:10px;
+	display:none;
+	width:800px;
+}
+#feedback{
+	border:solid 1px #000;
+}
+#fbSubmit{
+	margin-left:325px;
+	margin-top:5px;
+}

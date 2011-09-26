@@ -1,0 +1,60 @@
+#giveTable{
+	margin-left:20px;
+	margin-top:40px;
+	overflow:auto;
+	height:440px;
+}
+#getTable{
+	margin-left:20px;
+	margin-top:40px;
+	overflow:auto;
+	height:440px;
+}
+#leftContainer{
+	float:left;
+	width:497px;
+}
+#rightContainer{
+	float:right;
+	width:497px;
+}
+.giveList{
+	cursor:pointer;
+}
+.giveListBorder{
+	border:1px dashed #000;
+}
+.giveListFail{
+	cursor:pointer;
+	background-color: red;
+}
+.getList{
+	cursor:pointer;
+}
+.getListBorder{
+	border:1px dashed #000;
+}
+.giveListFail{
+	cursor:pointer;
+	background-color: red;
+}
+#giveHeading{
+	position:absolute;
+	margin-top:0px;
+	margin-left:215px;
+}
+#getHeading{
+	position:absolute;
+	margin-top:0px;
+	margin-left:220px;
+}
+#loadingImageLeft{
+	position:absolute;
+	margin-left:193px;
+	margin-top:50px;
+}
+#loadingImageRight{
+	position:absolute;
+	margin-left:193px;
+	margin-top:50px;
+}

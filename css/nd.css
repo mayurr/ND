@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:960px;
+	margin-top:60px;
+	//border:solid 1px #000;
+}
+#nd{
+	font-family:Trebuchet MS;
+	margin-left:380px;
+	//margin-top:220px;
+	font-size:32pt;
+}
+#anw{
+	font-family:Trebuchet MS;
+	margin-left:425px;
+	//margin-top:220px;
+	//font-size:32pt;
+}
+#about{
+	font-family:Trebuchet MS;
+	margin-left:190px;
+	margin-top:50px;
+	width:600px;
+	font-size:14px;
+	text-align:justify;
+}
+#enter{
+	cursor:pointer;
+	font-weight: bold;
+}
+#loginForm{
+	display:none;
+	margin-left:257px;
+}
+#loginTable{
+	margin-left:100px;
+	margin-top:50px;
+	font-family:Trebuchet MS;
+	font-size:12px;
+}
+input{
+	font-family:Trebuchet MS;
+	font-size:12px;
+}
+#invalidText {
+	position:absolute;
+	margin-left:395px;
+	margin-top:70px;
+	font-family:Trebuchet MS;
+	font-size:12px;
+}
+#loadingImage{
+	position:relative;
+	margin-left:400px;
+	margin-top:200px;
+}
